@@ -1,0 +1,22 @@
+{
+  "name": "4ever-bucket-docs",
+  "version": "0.0.1",
+  "description": "4everland bucket docs",
+  "authors": {
+    "name": "saullary",
+    "email": "saullarytzc94@gmail.com"
+  },
+  "repository": "https://github.com/4everland/4ever-bucket-docs",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src",
+    "doc": "node ./run/run.js"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  },
+  "dependencies": {
+    "json2md": "^1.12.0"
+  }
+}
