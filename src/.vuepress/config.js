@@ -42,10 +42,10 @@ module.exports = {
         text: "Guide",
         link: "/guide/",
       },
-      // {
-      //   text: "Cli",
-      //   link: "/cli/",
-      // },
+      {
+        text: "API",
+        link: "/api/",
+      },
       // {
       //   text: 'Github',
       //   link: 'https://github.com/4everland/4ever-bucket-docs',
@@ -57,6 +57,13 @@ module.exports = {
           title: "Guide",
           collapsable: false,
           children: ["", "login", "detail", "domain"],
+        },
+      ],
+      "/api/": [
+        {
+          title: "API Reference",
+          collapsable: false,
+          children: ["", "./example-go", "./example-js"],
         },
       ],
     },
