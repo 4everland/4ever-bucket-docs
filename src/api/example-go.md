@@ -78,7 +78,7 @@ _, err = uploader.Upload(context.TODO(),&s3.PutObjectInput{
 })
 ```
 
-### listBucket and list objects
+### list buckets and list objects
 
 ```go
 listBucketOutPut, err := client.ListBuckets(context.TODO(), &s3.ListBucketsInput{})

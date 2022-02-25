@@ -65,7 +65,7 @@ try {
 }
 ```
 
-### listBucket and list objects
+### list buckets and list objects
 
 ```js
 const buckets = await s3.listBuckets();
