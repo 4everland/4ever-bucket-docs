@@ -4,7 +4,7 @@
 
 1. To add a domain. Select a bucket you want to add a domain to and then click on "Add Domain" button then press enter.
 
-<img style="max-width:500px;margin-top:15px;box-shadow:0 30px 60px rgba(0,0,0,0.12);" src="../assets/screenshots/bucket-actions.jpg"/>
+![](https://docs-images.4everland.store/AddDomain.png)
 
 2. Before you enter the domain that you would like to add, please make sure that the domain name is available.
 
@@ -24,11 +24,29 @@ To delete buckets. You can delete buckets in bulk, but if the bucket has other f
 
 <img style="max-width:500px;margin-top:15px;box-shadow:0 30px 60px rgba(0,0,0,0.12);" src="../assets/screenshots/bucket-delete.jpg"/>
 
+
+
+## Delete AR Files
+
+Files synced to the AR network cannot be deleted due to the permanent feature of AR storage. For your convenience, we will delete the AR file from the bucket with your permission, but the file will remain on the AR network.
+
+![](https://docs-images.4everland.store/Delete.png)
+
+
+
 ## File Actions
 
-For an individual file. These four actions are available. You can download files locally, copy path, rename, and also delete files in bulk.
+Individual file. You can download files locally, copy paths, rename, and delete files in bulk. For files that are not synced to the AR network, you can also Sync them to the AR. 
 
-<img style="max-width:500px;margin-top:15px;box-shadow:0 30px 60px rgba(0,0,0,0.12);" src="../assets/screenshots/file-actions.jpg"/>
+![](https://docs-images.4everland.store/Actions.png)
+
+## AR History
+
+You can veiw a list of all the buckets you have synced to AR, including number of files, file name and size, AR Hash, and the last time it was edited.
+
+![](https://docs-images.4everland.store/History.png)
+
+
 
 ## Contact Us
 
